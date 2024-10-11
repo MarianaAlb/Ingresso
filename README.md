@@ -1,3 +1,17 @@
-Este projeto é uma aplicação simples para a compra de ingressos, onde o usuário pode selecionar quantos ingressos deseja comprar e visualizar quantos ingressos ainda estão disponíveis em tempo real.
-Tecnologias utilizadas: CSS, Javascript e HTML.
-Funcionalidades: Selecionar a quantidade de ingressos, exibir em tempo real a quantidade de ingressos restantes e atualizar automaticamente a quantidade após cada compra.
+🎟️ Sistema de Compra de Ingressos 🎟️
+
+Uma aplicação simples onde os usuários podem comprar ingressos e visualizar em tempo real quantos ainda estão disponíveis.
+
+🚀 Tecnologias Utilizadas:
+
+HTML: Estrutura da página.
+
+CSS: Estilização e layout responsivo.
+
+JavaScript: Lógica de compra e atualização da disponibilidade dos ingressos.
+
+📋 Funcionalidades:
+
+📌 Seleção de ingressos: Escolha quantos ingressos deseja comprar.
+
+📊 Atualização em tempo real: Visualize quantos ingressos ainda estão disponíveis após cada compra.
